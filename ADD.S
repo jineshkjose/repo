@@ -1,0 +1,4 @@
+MOV A,#08
+MOV B,#04
+ADD A,B
+L1:SJMP L1
